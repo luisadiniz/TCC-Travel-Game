@@ -258,6 +258,34 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4112692097018058322, guid: df534212c055f4f1ab5dd7f324f871a1, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -750
+      objectReference: {fileID: 0}
+    - target: {fileID: 4112692097018058322, guid: df534212c055f4f1ab5dd7f324f871a1, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -125
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147956771314063097, guid: df534212c055f4f1ab5dd7f324f871a1, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 55
+      objectReference: {fileID: 0}
+    - target: {fileID: 6549583945184487702, guid: df534212c055f4f1ab5dd7f324f871a1, type: 3}
+      propertyPath: m_Text
+      value: "ESTAT\xCDSTICAS"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6549583945184487702, guid: df534212c055f4f1ab5dd7f324f871a1, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 55
+      objectReference: {fileID: 0}
+    - target: {fileID: 6703122555740368778, guid: df534212c055f4f1ab5dd7f324f871a1, type: 3}
+      propertyPath: m_Text
+      value: MAPA
+      objectReference: {fileID: 0}
+    - target: {fileID: 6703122555740368778, guid: df534212c055f4f1ab5dd7f324f871a1, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 55
+      objectReference: {fileID: 0}
     - target: {fileID: 7718698090917067245, guid: df534212c055f4f1ab5dd7f324f871a1, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
