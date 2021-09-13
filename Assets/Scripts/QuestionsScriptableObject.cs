@@ -3,8 +3,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "Quiz", menuName = "ScriptableObjects/Quiz Questions", order = 1)]
-public class QuizQuestionsScriptable : ScriptableObject
+[CreateAssetMenu(fileName = "Quiz", menuName = "ScriptableObjects/Questions", order = 1)]
+public class QuestionsScriptableObject : ScriptableObject
 {
     public List<Question> questions;
 }
