@@ -16,6 +16,6 @@ public struct Question
   public string AnswerOne;
   public string AnswerTwo;
   public string AnswerThree;
-  public int RightOption;
+  public int RightAnswer;
 }
     
