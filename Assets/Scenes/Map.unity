@@ -363,6 +363,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5172003990887424485, guid: a93b8176ff8a6475c8b14a1cd5d729fb, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 653852107}
+    - target: {fileID: 5172003990887424485, guid: a93b8176ff8a6475c8b14a1cd5d729fb, type: 3}
+      propertyPath: m_RenderMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5778088782912820331, guid: a93b8176ff8a6475c8b14a1cd5d729fb, type: 3}
       propertyPath: m_Name
       value: MapCanvas

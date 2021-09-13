@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   questions:
   - Statement: Pergunta Teste 1
-    AnswerOne: Paulo
+    AnswerOne: Certa
     AnswerTwo: Resposta 2
     AnswerThree: Resposta 3
     RightAnswer: 0
   - Statement: Pergunta Teste 2
     AnswerOne: Resposta 1
-    AnswerTwo: Luisa
+    AnswerTwo: Certa
     AnswerThree: Resposta 3
     RightAnswer: 0
