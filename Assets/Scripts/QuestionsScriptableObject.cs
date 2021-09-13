@@ -13,9 +13,9 @@ public class QuestionsScriptableObject : ScriptableObject
 public struct Question
 {
   public string Statement;
-  public string FirstOption;
-  public string SecondOption;
-  public string ThirdOption;
+  public string AnswerOne;
+  public string AnswerTwo;
+  public string AnswerThree;
   public int RightOption;
 }
     
